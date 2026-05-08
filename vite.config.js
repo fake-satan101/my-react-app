@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     babel({ presets: [reactCompilerPreset()] })
   ],
-  base: '/my-react-app/',  // Add leading and trailing slashes
+  base: '/my-react-search-app/',  // Add leading and trailing slashes
 })  
